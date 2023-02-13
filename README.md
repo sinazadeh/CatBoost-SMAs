@@ -1,1 +1,1 @@
-# CatBoost-SMAs
+# CatBoost SMAs
