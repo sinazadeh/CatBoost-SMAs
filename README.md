@@ -11,4 +11,4 @@ To run the sample code, you will need to have CatBoost installed in your environ
 # Citing
 If you use this code or the accompanying data set, please cite the original paper. This will ensure proper recognition of the work that has gone into this repository and help further the research in this field.
 
-> Zadeh, S.H., Behbahanian, A., Broucek, J., Fan, M., Tovar, G.V., Noroozi, M., Trehern, W., Qian, X., Karaman, I. and Arroyave, R., 2023. An Interpretable Boosting-based Predictive Model for Transformation Temperatures of Shape Memory Alloys. arXiv preprint arXiv:2302.02153.
+> Zadeh, Sina Hossein, et al. "An interpretable boosting-based predictive model for transformation temperatures of shape memory alloys." Computational Materials Science 226 (2023): 112225.
